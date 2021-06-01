@@ -9,23 +9,22 @@ print("""
   |   |  |    ___| |     |   |   |               |   |  ___  | |_|   |
   |   |  |   |___ |   _   |  |   |               |   | |_  | |       |
   |___|  |_______||__| |__|  |___|               |___|   |_| |_______|
-
+  \033[0;31m
                  _____________________
                 |                     |
                 |                     |
-                |   alhassanAlharb7   |
-                |    F14Commander     |
+                |  \033[3;34m @alhassanAlharb7 \033[0;31m |
+                |  \033[3;34m @F14Commander  \033[0;31m   |
                 |                     |
                 |_____________________|
-
 """)
 while True:
-    print(""" 
+    print(""" \033[0;34m
 from EN to 1,0 (1)
 from 1,0 to EN (2)
 Exit (X)
 """)
-    User = input(">>")
+    User = input(">> \033[0;38m")
     if User == "1":
         Text =input("Text >> ")
         print("")
