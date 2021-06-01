@@ -13,5 +13,6 @@ git clone https://github.com/hassanalharbi123/Text-to-0-1.git
 ```
 
 # Accounts
-<a href="https://twitter.com/alhassanAlharb7">alhassan Alharbi</a>
+<a href="https://twitter.com/alhassanAlharb7">alhassan Alharbi "AL7"</a>
+<hr>
 <a href="https://twitter.com/alhassanAlharb7">Sulimn Al-Mohawis "F14Commander"</a>
