@@ -1,15 +1,24 @@
 from os import replace
-import pyfiglet
-pyfiglet.print_figlet("TEXT -> 1,0")
-
+from os import system
+system("clear")
 print("""
+ _______  _______  __   __  _______          >   ____         _______ 
+|       ||       ||  |_|  ||       |            |    |       |  _    |
+|_     _||    ___||       ||_     _|   ____      |   |       | | |   |
+  |   |  |   |___ |       |  |   |    |____|     |   |       | | |   |
+  |   |  |    ___| |     |   |   |               |   |  ___  | |_|   |
+  |   |  |   |___ |   _   |  |   |               |   | |_  | |       |
+  |___|  |_______||__| |__|  |___|               |___|   |_| |_______|
+
                  _____________________
-                |         AL7         |
+                |                     |
                 |                     |
                 |   alhassanAlharb7   |
+                |    F14Commander     |
                 |                     |
                 |_____________________|
-                """)
+
+""")
 input=input("Text >> ")
 a=input.replace("a","01100001 ")
 b=a.replace("b","01100010 ")
@@ -37,5 +46,4 @@ w=v.replace('w','01110111 ')
 x=w.replace('x','01111000 ')
 y=x.replace('y','01111001 ')
 z=y.replace('z','01111010 ')
-
 print(z)
