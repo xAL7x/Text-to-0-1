@@ -13,6 +13,7 @@ git clone https://github.com/hassanalharbi123/Text-to-0-1.git
 ```
 
 # Accounts
-<a href="https://twitter.com/alhassanAlharb7">alhassan Alharbi "AL7"</a>
-<hr>
-<a href="https://twitter.com/alhassanAlharb7">Sulimn Al-Mohawis "F14Commander"</a>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/alhassanAlharb7?color=blue&label=AL7&logo=twitter&logoColor=blue&style=for-the-badge)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/F14Commander?color=blue&label=F14Commander&logo=twitter&logoColor=blue&style=for-the-badge)
