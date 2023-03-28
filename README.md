@@ -14,6 +14,6 @@ git clone https://github.com/hassanalharbi123/Text-to-0-1.git
 
 # Accounts
 
-![Twitter Follow](https://img.shields.io/twitter/follow/xAL7x?color=blue&label=AL7&logo=twitter&logoColor=blue&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/xAL7x_Alharbi?color=blue&label=xAL7x&logo=twitter&logoColor=blue&style=for-the-badge)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/F14Commander?color=blue&label=F14Commander&logo=twitter&logoColor=blue&style=for-the-badge)
